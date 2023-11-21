@@ -16,7 +16,6 @@ flutter pub get
 
 ## Results
 <p>
-<img src="./results/1.jpg" width="400" height="800" />
 <img src="./results/2.jpg" width="400" height="800" />
 </p>
 <p>
